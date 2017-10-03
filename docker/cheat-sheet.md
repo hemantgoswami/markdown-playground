@@ -1,7 +1,7 @@
 # ABC
 
 ## test
-## <a name="cheat-sheet">cheat sheet</a>
+## cheat sheet
 sdf
 sdfs
 sdf
